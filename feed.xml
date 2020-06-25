@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://github.com/bmehler/feed/blob/master/rss2html.xsl" ?>
+<feed xmlns="http://www.w3.org/2005/Atom"><!--
+ Dies ist eine Newsfeed-Datei. Bitte verwenden Sie ein entsprechendes Programm (Newsreader) zur Darstellung 
+--><title>Stadt Nürnberg - _ Sandkasten - Aktuelles</title><link rel="self" href="https://www.nuernberg.de/internet/newsfeed/sandkasten_aktuelles.xml"/><id>_ Sandkasten - Aktuelles</id><rights>Stadt Nürnberg (c) 2020</rights><author>info@nuernberg.de</author><updated>2020-06-24T10:50:44Z</updated><entry><title>Testteaser</title><link href="https://www.nuernberg.de/internet/sandkasten/aktuell_48116.html"/><updated>2018-12-20T11:53:02Z</updated><id>9170183</id><summary>Testteaser zur Geschwindigkeitsmessung</summary><content type="html">
+<p>
+<a href="https://www.nuernberg.de/internet/sandkasten/aktuell_48116.html" title="Testteaser">
+<img src="https://www.nuernberg.de/imperia/md/stadtentwicklung/bilder/fittosize_150_150_a1b1850d23aa16b65f5ac27453ef3dcd_stab_stadtentwicklung.jpg" alt="Stabstelle Stadtentwicklung" title="" />
+</a>
+<br/>
+Testteaser zur Geschwindigkeitsmessung
+[<a href="https://www.nuernberg.de/internet/sandkasten/aktuell_48116.html" title="Testteaser">Weiterlesen</a>]
+</p>
+</content>
+</entry>
+</feed>
